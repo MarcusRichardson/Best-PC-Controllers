@@ -1,4 +1,4 @@
-# 🕹️ Best PC Controllers of 2025 (my list)
+# 🕹️ Best PC Controllers of 2025
 
 **Updated: 2025**
 
@@ -63,7 +63,7 @@ I’ve tested most of the popular TMR-based controllers available this year. Whi
 
 ## 🎯 Final Verdict
 
-My current top pick is the **GameSir Cyclone 2** — it nails the essentials with excellent analog triggers, responsive inputs, and comfortable design. If you want the most precise FPS controller, **Blitz 2** is unbeatable in latency. For a PS-style layout, **Tarantula Pro** is your go-to (despite the so-so membrane buttons).
+My current top pick is the **GameSir Cyclone 2** — it nails the essentials with excellent analog triggers, responsive inputs, and comfortable design. If you want the most precise FPS controller, **Blitz 2** is unbeatable in latency. For a PS-style layout, **Tarantula Pro** is your go-to (despite the so-so membrane buttons). List done using hlplanet TMR controllers list.
 
 ---
 
