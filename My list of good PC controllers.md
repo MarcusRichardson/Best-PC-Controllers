@@ -1,4 +1,4 @@
-# 🕹️ Best PC Controllers of 2025 (TMR Joystick Era)
+# 🕹️ Best PC Controllers of 2025 (my list)
 
 **Updated: 2025**
 
@@ -17,7 +17,7 @@ I’ve tested most of the popular TMR-based controllers available this year. Whi
 - **🕹️ Most Accurate Sticks:** All TMR-based (except Gulikit KK3)  
 - **⬅️ Best D-Pad:** Machenike G5 Pro V2  
 - **🅰️ Best Face Buttons:**  
-  - *Mechanical:* Machenike G5 Pro V2  
+  - *Mechanical:* EasySMX D10
   - *Membrane:* Gulikit KK2 T  
 - **🎮 Best DualSense Alternative:** GameSir Tarantula Pro (PlayStation layout)
 
